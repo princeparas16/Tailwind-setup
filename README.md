@@ -43,3 +43,6 @@ module.exports = {
 ```
 ## Inside 'index.js' file
 `import './assets/main.css`
+
+# Important
+` npm run`
